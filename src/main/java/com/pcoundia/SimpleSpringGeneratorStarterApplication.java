@@ -1,4 +1,4 @@
-package com.pcoundia.simple_spring_generator_starter;
+package com.pcoundia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
